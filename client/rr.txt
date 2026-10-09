@@ -1,0 +1,5 @@
+ npm i axios, react-icons, react-router-dom, framer-motion
+ npm install tailwindcss @tailwindcss/vite
+    import tailwindcss from '@tailwindcss/vite'
+     tailwindcss(),
+     @import "tailwindcss";

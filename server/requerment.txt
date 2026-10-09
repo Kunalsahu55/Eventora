@@ -1,0 +1,5 @@
+st-1 npm init
+
+st-2 npm i bcryptjs, cors, dotenv,express, jsonwebtoken, mongoose, nodemailer
+
+st-3 npm i -D nodemon
